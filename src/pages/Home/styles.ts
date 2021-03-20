@@ -62,7 +62,6 @@ export const ProductList = styled.ul`
       span {
         flex: 1;
         text-align: center;
-        font-weight: bold;
       }
     }
   }

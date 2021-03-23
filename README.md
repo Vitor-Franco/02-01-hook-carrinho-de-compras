@@ -18,7 +18,7 @@ Este projeto utiliza as seguintes tecnologias:
 
 ## 🔥 Preview
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/9db2937c-6671-4d7d-a266-ff4a5f88b6bd/deploy-status)](https://watchme-vf.netlify.app/)\*
+[![Netlify Status](https://api.netlify.com/api/v1/badges/bea7700d-c3b3-478a-87b6-506a20ee892b/deploy-status)](https://rocketshoes-vf.netlify.app/)\*
 <br>
 
 \*Pode ser que demore um pouco para carregar as informações. Portanto, aguarde um pouco e se persistir tente carregar novamente a página.
@@ -46,9 +46,16 @@ $ yarn start
 
 ## 📝 Projeto
 
-#### Desafio complementar da trilha de ReactJS.
+#### Desafio da trilha de ReactJS.
 
-Este desafio é necessário **identificar** possíveis components numa aplicação já pronta, separá-los e por fim utilizá-los.
+Este desafio visava principalmente a prática do uso de **hooks** no React.
+Partindo disto, as funcionalidades **principais** eram:  
+
+-**`Carrinho de compras: adicionar um produto, remover, alterar a sua quantidade.`**
+
+-**`Listagem de Produtos: listá-los por toda aplicação, mantendo o estado atual em toda aplicação.`**
+
+-**`Sinalizar qualquer falha: a partir de um Toast, sinalizar os problemas que possam ocorrer.`**
 
 Projeto desenvolvido durante Bootcamp Ignite da [@Rocketseat](https://github.com/Rocketseat).
 
@@ -56,7 +63,7 @@ Projeto desenvolvido durante Bootcamp Ignite da [@Rocketseat](https://github.com
 
 Você pode acessar o template do desafio em:
 
-- [Template Challenge](https://github.com/rocketseat-education/ignite-template-componentizando-a-aplicacao)
+- [Template Challenge](https://github.com/rocketseat-education/ignite-template-reactjs-criando-um-hook-de-carrinho-de-compras)
 
 ---
 

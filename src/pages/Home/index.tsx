@@ -39,7 +39,7 @@ const Home = (): JSX.Element => {
         ...product,
         price: formatPrice(product.price),
       }));
-      setProducts([...products, ...productsWithPriceFormatted]);
+      setProducts(productsWithPriceFormatted);
     }
     loadProducts();
   }, []);

@@ -22,7 +22,7 @@ Este projeto utiliza as seguintes tecnologias:
 <br>
 
 <p align="center">
-  <a href="" target="_blank">
+  <a href="https://rocketshoes-vf.netlify.app/" target="_blank">
     <img alt="Preview App" title="Preview App" src=".github/logo-rocketshoes.png" />
   </a>
 </p>

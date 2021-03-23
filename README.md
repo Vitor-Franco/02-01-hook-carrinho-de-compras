@@ -21,6 +21,12 @@ Este projeto utiliza as seguintes tecnologias:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/bea7700d-c3b3-478a-87b6-506a20ee892b/deploy-status)](https://rocketshoes-vf.netlify.app/)\*
 <br>
 
+<p align="center">
+  <a href="" target="_blank">
+    <img alt="Preview App" title="Preview App" src=".github/logo-rocketshoes.png" />
+  </a>
+</p>
+
 \*Pode ser que demore um pouco para carregar as informações. Portanto, aguarde um pouco e se persistir tente carregar novamente a página.
 
 ## 🚀 Getting started
@@ -51,11 +57,13 @@ $ yarn start
 Este desafio visava principalmente a prática do uso de **hooks** no React.
 Partindo disto, as funcionalidades **principais** eram:  
 
--**`Carrinho de compras: adicionar um produto, remover, alterar a sua quantidade.`**
+**`Carrinho de compras: adicionar um produto, remover e alterar a sua quantidade.`**
 
--**`Listagem de Produtos: listá-los por toda aplicação, mantendo o estado atual em toda aplicação.`**
+**`Listagem de Produtos: listá-los por toda aplicação, mantendo o estado atual em toda aplicação.`**
 
--**`Sinalizar qualquer falha: a partir de um Toast, sinalizar os problemas que possam ocorrer.`**
+**`Sinalizar qualquer falha: a partir de um Toast, sinalizar os problemas que possam ocorrer.`**
+
+**`Adicionar as informações do carrinho no LocalStorage`**
 
 Projeto desenvolvido durante Bootcamp Ignite da [@Rocketseat](https://github.com/Rocketseat).
 
